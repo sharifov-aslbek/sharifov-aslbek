@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sharifov Aslbek</h1>
-<h3 align="center">A junior FrontEnd Developer on Tashkent</h3>
+<h1 align="left">Hi 👋, I'm Sharifov Aslbek</h1>
+<h3 align="left">A junior FrontEnd Developer on Tashkent</h3>
 
 - 🔭 I’m currently working on [universalSitejs](https://github.com/sharifov-aslbek/universalSitejs.git)
 
 - 🌱 I’m currently learning **Js vuejs vuex**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 [![Sharifov Aslbek's  github stats ](https://github-readme-stats.vercel.app/api?username=sharifov-aslbek&show_icons=true&theme=dark)](https://github.com/sharifov-aslbek/github-readme-stats)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
