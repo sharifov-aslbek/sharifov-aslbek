@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sharifov Aslbek</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Hi+I'm+Sharifov+Aslbek)](https://git.io/typing-svg)
 <h3 align="left">A junior FrontEnd Developer on Tashkent</h3>
 
 - 🔭 I’m currently working on [universalSitejs](https://github.com/sharifov-aslbek/universalSitejs.git)
