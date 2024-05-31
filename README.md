@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [universalSitejs](https://github.com/sharifov-aslbek/universalSitejs.git)
 
-- 🌱 I’m currently learning **Js vuejs vuex**
+- 🌱 I’m currently learning **Js Vuejs Vuex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
