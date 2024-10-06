@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Hi+I'm+Sharifov+Aslbek)](https://git.io/typing-svg)
-<h3 align="left">A Junior FrontEnd Developer on Tashkent</h3>
+<h3 align="left">A Junior FullStack Developer at skills (Laravel,Vuejs)</h3>
 
-- 🌱 I’m currently learning **Js Vuejs Vuex**
+- 🌱 I’m currently learning **Vuejs , Laravel , Php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
