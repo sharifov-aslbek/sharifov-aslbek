@@ -4,11 +4,7 @@
 </p>
 
 <!-- ───────────────────────────────── TITLE & TAGLINE ────────────────────────── -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33FFCC&width=435&lines=Hi%2C+I%27m+Sharifov+Aslbek;Junior+Full‑Stack+Developer" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Hi+I'm+Sharifov+Aslbek)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
