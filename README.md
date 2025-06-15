@@ -1,13 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Hi+I'm+Sharifov+Aslbek)](https://git.io/typing-svg)
+
 <h3 align="left">A Junior FullStack Developer at skills (Laravel,Vuejs)</h3>
 
 - 🌱 I’m currently learning **Vuejs , Laravel , Php**
+
+---
+
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/sharifov-aslbek/sharifov-aslbek/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-[![Sharifov Aslbek's  github stats ](https://github-readme-stats.vercel.app/api?username=sharifov-aslbek&show_icons=true&theme=dark)](https://github.com/sharifov-aslbek/github-readme-stats)
+[![Sharifov Aslbek's github stats](https://github-readme-stats.vercel.app/api?username=sharifov-aslbek&show_icons=true&theme=dark)](https://github.com/sharifov-aslbek/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
