@@ -10,16 +10,18 @@
   <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <!-- ─────────────────────────────── ABOUT ME ────────────────────────────────── -->
-### 👨‍💻 About&nbsp;Me
-- 🌱 Hozirda **Vue 3**, **Laravel** va **PHP**’ni chuqurroq o‘rganmoqdaman  
+### 👨‍💻 About Me
+- 🌱 Hozirda **Vue 3**, **Laravel**, **PHP** va **React Native**’ni chuqurroq o‘rganmoqdaman  
 - 🛠 Full‑Stack ekotizimida tajribam bor: `Inertia`, `Vite`, `TailwindCSS`  
+- 📱 React Native orqali mobil ilovalar yaratishni o‘rganmoqdaman  
 - 🎯 Maqsad — toza, optimallashtirilgan kod va foydalanuvchi‑do‘st interfeyslar
 
 <!-- ─────────────────────────────── CONTACT ─────────────────────────────────── -->
-### 📫 Connect&nbsp;with&nbsp;me
+### 📫 Connect with me
 <p>
   <a href="mailto:sharifovaslbek5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/asco17"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
@@ -45,6 +47,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/512px-Laravel.svg.png" width="40px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="40px"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" width="40px" title="React Native"/>
 </p>
 
 <!-- ─────────────────────────────── FOOTER ──────────────────────────────────── -->
