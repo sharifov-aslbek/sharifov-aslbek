@@ -15,7 +15,7 @@
 
 <!-- ─────────────────────────────── ABOUT ME ────────────────────────────────── -->
 ### 👨‍💻 About Me
-- 🌱 Hozirda **Vue 3**, **Laravel**, **PHP** va **React Native**’ni chuqurroq o‘rganmoqdaman  
+- 🌱 Hozirda **Vue 3**, **C#**, **.Net** va **React Native**’ni chuqurroq o‘rganmoqdaman  
 - 🛠 Full‑Stack ekotizimida tajribam bor: `Inertia`, `Vite`, `TailwindCSS`  
 - 📱 React Native orqali mobil ilovalar yaratishni o‘rganmoqdaman  
 - 🎯 Maqsad — toza, optimallashtirilgan kod va foydalanuvchi‑do‘st interfeyslar
@@ -35,6 +35,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharifov-aslbek&theme=tokyonight&hide_border=true" width="49%"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifov-aslbek&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- ─────────────────────────────── CONTRIBUTION SNAKE ──────────────────────── -->
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharifov-aslbek/sharifov-aslbek/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharifov-aslbek/sharifov-aslbek/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sharifov-aslbek/sharifov-aslbek/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- ─────────────────────── LANGUAGES & TOOLS SECTION ──────────────────────── -->
